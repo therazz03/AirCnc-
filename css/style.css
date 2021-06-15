@@ -15,6 +15,7 @@ body {
   font-size: 0.875rem;
   /* color: rgb(86, 90, 92); */
 }
+/* end of body */
 
 .clearfix:after {
   content: "";
@@ -49,12 +50,6 @@ strong {
   margin: 0 auto;
 }
 
-
-/* .container{
-  height: 100vh;
-  width: 100vw;
-  margin: 0 auto 0 auto;
-} */
 
 header{
   color: #DCE0E0
@@ -190,6 +185,7 @@ header .logo {
 }
 
 /* Media Quary */
+/* for mobile screen  */
 
 @media only screen and (min-width: 1060px){
 
